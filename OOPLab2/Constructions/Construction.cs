@@ -1,4 +1,5 @@
 ﻿using OOP.Constructions.DTO;
+using OOP.Constructions.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,7 +16,7 @@ namespace OOPLab2.Constructions
             Width = 113;
             Entrances = 1;
             HumanCapacity = 3;
-            BuildMaterial = "Material";
+            BuildMaterial = BuildMaterialEnum.Concrete;
         }
 
         public Construction(CreateConstructionDTO construction)
@@ -27,34 +28,46 @@ namespace OOPLab2.Constructions
             BuildMaterial = construction.BuildMaterial;
         }
 
-        public Construction(float hight, float width, int entrances, int humancapacity, string buildmaterial) 
+        public Construction(float hight, float width, int entrances, int humancapacity, BuildMaterialEnum buildmaterial)
         {
-            Height = hight; 
-            Width = width;  
-            Entrances = entrances; 
-            HumanCapacity = humancapacity; 
+            Height = hight;
+            Width = width;
+            Entrances = entrances;
+            HumanCapacity = humancapacity;
             BuildMaterial = buildmaterial;
         }
-        
+
         public float Height { get; set; }
         public float Width { get; set; }
         public int Entrances { get; set; }
         public int HumanCapacity { get; set; }
-        private string _buildMaterial { get; set; }
-        public string BuildMaterial
+        private BuildMaterialEnum? _buildMaterial { get; set; }
+        public BuildMaterialEnum? BuildMaterial
         {
             get
             {
                 return _buildMaterial;
-            } 
+            }
             set
             {
-                if (string.IsNullOrEmpty(value))
-                { 
+                if (value == null)
+                {
                     throw new ArgumentNullException("Value can not be null");
                 }
                 _buildMaterial = value;
             }
+        }
+        public float getSquareCost()
+        {
+            if (BuildMaterial == BuildMaterialEnum.Concrete)
+            {
+                return 0.87f * Height * Width * 0.9f;
+            }
+            else if (BuildMaterial == BuildMaterialEnum.Brik)
+            {
+                return 0.8f * Height * Width * 0.9f;
+            }
+            return 0.78f * Height * Width * 0.9f;
         }
 
     }
