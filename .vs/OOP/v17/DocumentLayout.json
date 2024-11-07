@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\w69950\\OOP_Siroshtan_Andrii\\",
+  "WorkspaceRootPath": "C:\\Users\\w69950\\source\\repos\\OOP_Siroshtan_Andrii\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{31746622-A825-46F6-977C-9DBF30842352}|OOPLab2\\OOP.csproj|c:\\users\\w69950\\oop_siroshtan_andrii\\ooplab2\\constructions\\models\\buildmaterialenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31746622-A825-46F6-977C-9DBF30842352}|OOPLab2\\OOP.csproj|solutionrelative:ooplab2\\constructions\\models\\buildmaterialenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31746622-A825-46F6-977C-9DBF30842352}|OOPLab2\\OOP.csproj|c:\\users\\w69950\\oop_siroshtan_andrii\\ooplab2\\constructions\\dto\\createconstructiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31746622-A825-46F6-977C-9DBF30842352}|OOPLab2\\OOP.csproj|solutionrelative:ooplab2\\constructions\\dto\\createconstructiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31746622-A825-46F6-977C-9DBF30842352}|OOPLab2\\OOP.csproj|c:\\users\\w69950\\oop_siroshtan_andrii\\ooplab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{31746622-A825-46F6-977C-9DBF30842352}|OOPLab2\\OOP.csproj|c:\\users\\w69950\\source\\repos\\oop_siroshtan_andrii\\ooplab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31746622-A825-46F6-977C-9DBF30842352}|OOPLab2\\OOP.csproj|solutionrelative:ooplab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31746622-A825-46F6-977C-9DBF30842352}|OOPLab2\\OOP.csproj|c:\\users\\w69950\\oop_siroshtan_andrii\\ooplab2\\constructions\\construction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{31746622-A825-46F6-977C-9DBF30842352}|OOPLab2\\OOP.csproj|c:\\users\\w69950\\source\\repos\\oop_siroshtan_andrii\\ooplab2\\residentalbuildings\\residentialbuilding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31746622-A825-46F6-977C-9DBF30842352}|OOPLab2\\OOP.csproj|solutionrelative:ooplab2\\residentalbuildings\\residentialbuilding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31746622-A825-46F6-977C-9DBF30842352}|OOPLab2\\OOP.csproj|c:\\users\\w69950\\source\\repos\\oop_siroshtan_andrii\\ooplab2\\industrialhalls\\industrialhall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31746622-A825-46F6-977C-9DBF30842352}|OOPLab2\\OOP.csproj|solutionrelative:ooplab2\\industrialhalls\\industrialhall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31746622-A825-46F6-977C-9DBF30842352}|OOPLab2\\OOP.csproj|c:\\users\\w69950\\source\\repos\\oop_siroshtan_andrii\\ooplab2\\constructions\\construction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31746622-A825-46F6-977C-9DBF30842352}|OOPLab2\\OOP.csproj|solutionrelative:ooplab2\\constructions\\construction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31746622-A825-46F6-977C-9DBF30842352}|OOPLab2\\OOP.csproj|c:\\users\\w69950\\source\\repos\\oop_siroshtan_andrii\\ooplab2\\constructions\\dto\\createconstructiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31746622-A825-46F6-977C-9DBF30842352}|OOPLab2\\OOP.csproj|solutionrelative:ooplab2\\constructions\\dto\\createconstructiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,30 +30,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BuildMaterialEnum.cs",
-              "DocumentMoniker": "C:\\Users\\w69950\\OOP_Siroshtan_Andrii\\OOPLab2\\Constructions\\Models\\BuildMaterialEnum.cs",
-              "RelativeDocumentMoniker": "OOPLab2\\Constructions\\Models\\BuildMaterialEnum.cs",
-              "ToolTip": "C:\\Users\\w69950\\OOP_Siroshtan_Andrii\\OOPLab2\\Constructions\\Models\\BuildMaterialEnum.cs",
-              "RelativeToolTip": "OOPLab2\\Constructions\\Models\\BuildMaterialEnum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "IndustrialHall.cs",
+              "DocumentMoniker": "C:\\Users\\w69950\\Source\\Repos\\OOP_Siroshtan_Andrii\\OOPLab2\\IndustrialHalls\\IndustrialHall.cs",
+              "RelativeDocumentMoniker": "OOPLab2\\IndustrialHalls\\IndustrialHall.cs",
+              "ToolTip": "C:\\Users\\w69950\\Source\\Repos\\OOP_Siroshtan_Andrii\\OOPLab2\\IndustrialHalls\\IndustrialHall.cs",
+              "RelativeToolTip": "OOPLab2\\IndustrialHalls\\IndustrialHall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T10:13:52.632Z",
+              "WhenOpened": "2024-11-07T09:54:52.865Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ResidentialBuilding.cs",
+              "DocumentMoniker": "C:\\Users\\w69950\\Source\\Repos\\OOP_Siroshtan_Andrii\\OOPLab2\\ResidentalBuildings\\ResidentialBuilding.cs",
+              "RelativeDocumentMoniker": "OOPLab2\\ResidentalBuildings\\ResidentialBuilding.cs",
+              "ToolTip": "C:\\Users\\w69950\\Source\\Repos\\OOP_Siroshtan_Andrii\\OOPLab2\\ResidentalBuildings\\ResidentialBuilding.cs",
+              "RelativeToolTip": "OOPLab2\\ResidentalBuildings\\ResidentialBuilding.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T09:56:27.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "CreateConstructionDTO.cs",
-              "DocumentMoniker": "C:\\Users\\w69950\\OOP_Siroshtan_Andrii\\OOPLab2\\Constructions\\DTO\\CreateConstructionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\w69950\\source\\repos\\OOP_Siroshtan_Andrii\\OOPLab2\\Constructions\\DTO\\CreateConstructionDTO.cs",
               "RelativeDocumentMoniker": "OOPLab2\\Constructions\\DTO\\CreateConstructionDTO.cs",
-              "ToolTip": "C:\\Users\\w69950\\OOP_Siroshtan_Andrii\\OOPLab2\\Constructions\\DTO\\CreateConstructionDTO.cs",
+              "ToolTip": "C:\\Users\\w69950\\source\\repos\\OOP_Siroshtan_Andrii\\OOPLab2\\Constructions\\DTO\\CreateConstructionDTO.cs",
               "RelativeToolTip": "OOPLab2\\Constructions\\DTO\\CreateConstructionDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T09:54:19.397Z",
               "EditorCaption": ""
@@ -58,24 +75,24 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Construction.cs",
-              "DocumentMoniker": "C:\\Users\\w69950\\OOP_Siroshtan_Andrii\\OOPLab2\\Constructions\\Construction.cs",
+              "DocumentMoniker": "C:\\Users\\w69950\\source\\repos\\OOP_Siroshtan_Andrii\\OOPLab2\\Constructions\\Construction.cs",
               "RelativeDocumentMoniker": "OOPLab2\\Constructions\\Construction.cs",
-              "ToolTip": "C:\\Users\\w69950\\OOP_Siroshtan_Andrii\\OOPLab2\\Constructions\\Construction.cs",
+              "ToolTip": "C:\\Users\\w69950\\source\\repos\\OOP_Siroshtan_Andrii\\OOPLab2\\Constructions\\Construction.cs",
               "RelativeToolTip": "OOPLab2\\Constructions\\Construction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T08:57:32.93Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\w69950\\OOP_Siroshtan_Andrii\\OOPLab2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\w69950\\source\\repos\\OOP_Siroshtan_Andrii\\OOPLab2\\Program.cs",
               "RelativeDocumentMoniker": "OOPLab2\\Program.cs",
-              "ToolTip": "C:\\Users\\w69950\\OOP_Siroshtan_Andrii\\OOPLab2\\Program.cs",
+              "ToolTip": "C:\\Users\\w69950\\source\\repos\\OOP_Siroshtan_Andrii\\OOPLab2\\Program.cs",
               "RelativeToolTip": "OOPLab2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T08:34:21.196Z",
               "EditorCaption": ""
